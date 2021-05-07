@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**3chospirits/3chospirits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on
   - [Confesscord](http://confesscord.com), a public discord bot
