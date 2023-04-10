@@ -2,9 +2,9 @@
 
 # hello! 
 
-i'm a fullstack dev and data engineer. 
+i'm a fullstack dev, data engineer, and avid anime enjoyer. 
 
-i make coding [youtube](https://www.youtube.com/c/Niconiconii) videos sometimes.
+i also make coding [youtube](https://www.youtube.com/c/Niconiconii) videos sometimes.
 
 ![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2F3chospirits)
 ![subs](https://img.shields.io/youtube/channel/subscribers/UCH-NXU_A3HmisP1cM1rkm6Q?color=ff0000&style=plastic)
